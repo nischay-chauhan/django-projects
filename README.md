@@ -17,13 +17,15 @@ Follow these steps to get started with the Django Blog project:
    ```bash
    git clone https://github.com/your-username/django-blog.git
 
-2. Install the required dependencies
-   ```bash
+2. Install the required dependencies=
+    ```bash
     pip install -r requirements.txt
 
 3.Run the deployment server 
-  ```bash
-  python manage.py runserver.
+```bash
+   python manage.py runserver.
+        
+ 
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
