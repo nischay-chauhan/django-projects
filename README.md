@@ -1,3 +1,5 @@
+Switch branch to master to view the project
+
 # Django Blog
 
 Welcome to the Django Blog project! This web application allows you to create and manage your own blog with user authentication features. Share your thoughts, stories, and ideas with the world through this easy-to-use platform.
